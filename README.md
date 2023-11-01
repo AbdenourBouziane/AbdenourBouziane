@@ -12,6 +12,6 @@ I'm passionate about the limitless possibilities of artificial intelligence and 
 
 🚀 Join me on my coding journey, where I'm constantly learning and building exciting projects.
 
-📫 You can connect with me via [your preferred way to contact you].
+📫 You can connect with me via [abdenour.bouziane@ensia.edu.dz].
 
 Let's code and innovate together! 💻🤖🚀
