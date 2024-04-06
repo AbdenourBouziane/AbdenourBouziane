@@ -2,7 +2,7 @@
 
 - 🎓 I'm a 3rd-year student at the National Higher School of Artificial Intelligence at Sidi Abdellah.
 - 🤖 I'm an AI enthusiast.
-- 📱 I'm a mobile developer using Flutter.
+- 📱 I'm a mobile developer.
 
 ## About Me
 
