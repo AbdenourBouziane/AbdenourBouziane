@@ -4,7 +4,7 @@
   <img align="left" alt="Abdenour's Twitter" width="22px" src="https://img.freepik.com/vecteurs-premium/nouveau-logo-twitter-est-sorti-2023_929078-218.jpg?semt=ais_hybrid" />
 </a>
 <a href="https://www.linkedin.com/in/abdenour-bouziane-469225238/">
-  <img align="left" alt="Abdenour's Linkdein" width="22px" src="https://static.vecteezy.com/system/resources/previews/023/986/970/original/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" />
+  <img align="left" alt="Abdenour's Linkdein" width="32px" src="https://static.vecteezy.com/system/resources/previews/023/986/970/original/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" />
 </a>
 <a href="https://github.com/AbdenourBouziane">
   <img align="left" alt="Abdenour's Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
