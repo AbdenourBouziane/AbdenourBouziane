@@ -50,12 +50,12 @@ Iam Abdenour Bouziane 4th year student at ENSIA. Currently working as a freelanc
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="40" src="https://github.com/AbdenourBouziane/storage/blob/550de8224fed90a8c48c2d61c50ef264950d9442/flutter.png"></code>
 <code><img height="40" src="https://github.com/AbdenourBouziane/storage/blob/550de8224fed90a8c48c2d61c50ef264950d9442/Kotlin.png"></code>
-<code><img height="40" src="https://github.com/AbdenourBouziane/storage/blob/550de8224fed90a8c48c2d61c50ef264950d9442/css3.png"></code>
-<code><img height="40" src="https://github.com/AbdenourBouziane/storage/blob/550de8224fed90a8c48c2d61c50ef264950d9442/html.png"></code>
-<code><img height="40" src="https://github.com/AbdenourBouziane/storage/blob/550de8224fed90a8c48c2d61c50ef264950d9442/php.png"></code>
 <code><img height="40" src="https://github.com/AbdenourBouziane/storage/blob/550de8224fed90a8c48c2d61c50ef264950d9442/Dart.png"></code>
-<code><img height="40" src="https://github.com/AbdenourBouziane/storage/blob/550de8224fed90a8c48c2d61c50ef264950d9442/Python.png"></code>
-<code><img height="40" src="https://github.com/AbdenourBouziane/storage/blob/550de8224fed90a8c48c2d61c50ef264950d9442/C.png"></code>
+<code><img height="40" src="https://github.com/AbdenourBouziane/storage/blob/790f312fac35d0e6430a186c41e1eb46d2720d1f/css3.png"></code>
+<code><img height="40" src="https://github.com/AbdenourBouziane/storage/blob/790f312fac35d0e6430a186c41e1eb46d2720d1f/html.png"></code>
+<code><img height="40" src="https://github.com/AbdenourBouziane/storage/blob/790f312fac35d0e6430a186c41e1eb46d2720d1f/php.png"></code>
+<code><img height="40" src="https://github.com/AbdenourBouziane/storage/blob/790f312fac35d0e6430a186c41e1eb46d2720d1f/Python.png"></code>
+<code><img height="40" src="https://github.com/AbdenourBouziane/storage/blob/790f312fac35d0e6430a186c41e1eb46d2720d1f/C.png"></code>
 
 
 
