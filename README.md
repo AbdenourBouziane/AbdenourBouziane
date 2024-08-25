@@ -17,8 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/_abdou911/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raid_ouahioune" height="30" width="40" /></a>
-<a href="https://medium.com/@radouahioune" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@radouahioune" height="30" width="40" /></a>
-<a href="https://discord.gg/abdou8754" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="raidxxxx" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdenour-bouziane-469225238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/AbdenourBouziane/storage/main/logo.webp?token=GHSAT0AAAAAACRWNMJSG5Z6NRPHKW37UJ7MZWLWL5A" alt="abdenour" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
