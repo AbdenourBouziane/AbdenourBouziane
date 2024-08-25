@@ -1,7 +1,7 @@
  # <a href="https://www.linkedin.com/in/abdenour-bouziane-469225238/">Abdenour Bouziane</a> :smiley:
  
  <a href="https://x.com/abdenour_env" style="background-color:White;">
-  <img align="left" alt="Abdenour's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Abdenour's Twitter" width="22px" src="https://img.freepik.com/vecteurs-premium/nouveau-logo-twitter-est-sorti-2023_929078-218.jpg?semt=ais_hybrid" />
 </a>
 <a href="https://www.linkedin.com/in/abdenour-bouziane-469225238/">
   <img align="left" alt="Abdenour's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -71,7 +71,7 @@ Iam Abdenour Bouziane 4th year student at ENSIA. Currently working as a freelanc
 
 
 ##  Contact Me :speech_balloon:
-[![Twitter Badge](https://img.shields.io/badge/-AbdenourBouziane-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/abdenour_env)](https://x.com/abdenour_env) [![Linkedin Badge](https://img.shields.io/badge/-AbdenourBouziane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdenour-bouziane-469225238//)](https://www.linkedin.com/in/abdenour-bouziane-469225238/) [![Gmail Badge](https://img.shields.io/badge/-bouziabeabdenour18@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bouzianeabdenour18@gmail.com)](mailto:bouzianeabdenour18@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@Abdenour-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/_abdou911//)](https://www.instagram.com/_abdou911//)
+[![Twitter Badge](https://img.shields.io/badge/-AbdenourBouziane-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/abdenour_env)](https://x.com/abdenour_env) [![Linkedin Badge](https://img.shields.io/badge/-AbdenourBouziane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdenour-bouziane-469225238//)](https://www.linkedin.com/in/abdenour-bouziane-469225238/) [![Gmail Badge](https://img.shields.io/badge/-bouziabeabdenour18@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bouzianeabdenour18@gmail.com)](mailto:bouzianeabdenour18@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@Abdenour-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/_abdou911//)](https://www.instagram.com/_abdou911/)
 
 <p align="center"> 
   Visitor count<br>
