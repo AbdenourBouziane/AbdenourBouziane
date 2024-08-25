@@ -1,6 +1,6 @@
  # <a href="https://www.linkedin.com/in/abdenour-bouziane-469225238/">Abdenour Bouziane</a> :smiley:
  
- <a href="https://x.com/abdenour_env">
+ <a href="https://x.com/abdenour_env" style="background-color:White;">
   <img align="left" alt="Abdenour's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/abdenour-bouziane-469225238/">
@@ -66,7 +66,7 @@ Iam Abdenour Bouziane 4th year student at ENSIA. Currently working as a freelanc
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbdenourBouziane&&show_icons=true&theme=radical&line_height=27&v=5&hide_rank" alt="Abdenour's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=AbdenourBouziane&&show_icons=true&theme=radical&line_height=27&v=5&hide_rank=false" alt="Abdenour's GitHub Stats" />
 
 
 
