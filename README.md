@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-Contributer at @Gostu | Data Science | Machine Learning | Deep Learning | Mobile Development | Python | Web Development
+Data Science | Machine Learning | Deep Learning | Mobile Development | Python | Web Development 
 
 ## About :sunglasses:
 Iam Abdenour Bouziane 4th year student at ENSIA. Currently working as a freelancer in Software development.
