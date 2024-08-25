@@ -4,16 +4,16 @@
   <img align="left" alt="Abdenour's Twitter" width="22px" src="https://img.freepik.com/vecteurs-premium/nouveau-logo-twitter-est-sorti-2023_929078-218.jpg?semt=ais_hybrid" />
 </a>
 <a href="https://www.linkedin.com/in/abdenour-bouziane-469225238/">
-  <img align="left" alt="Abdenour's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Abdenour's Linkdein" width="22px" src="https://static.vecteezy.com/system/resources/previews/023/986/970/original/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" />
 </a>
 <a href="https://github.com/AbdenourBouziane">
-  <img align="left" alt="Abdenour's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Abdenour's Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 </a>
 <a href="https://www.instagram.com/_abdou911/">
-  <img align="left" alt="Abdenour's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Abdenour's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" />
 </a>
 <a href="https://www.facebook.com/abdenour.bouziane.9085/">
-  <img align="left" alt="Abdenour's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Abdenour's Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg" />
 </a>
 
 <br/>
