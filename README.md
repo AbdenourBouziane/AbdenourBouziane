@@ -37,20 +37,30 @@ Iam Abdenour Bouziane 4th year student at ENSIA. Currently working as a freelanc
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://github.com/AbdenourBouziane/storage/blob/550de8224fed90a8c48c2d61c50ef264950d9442/flutter.png"></code>
-<code><img height="20" src="https://github.com/AbdenourBouziane/storage/blob/550de8224fed90a8c48c2d61c50ef264950d9442/Kotlin.png"></code>
-<code><img height="20" src="https://github.com/AbdenourBouziane/storage/blob/550de8224fed90a8c48c2d61c50ef264950d9442/Dart.png"></code>
+<code><img height="40" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="40" src="https://github.com/AbdenourBouziane/storage/blob/550de8224fed90a8c48c2d61c50ef264950d9442/flutter.png"></code>
+<code><img height="40" src="https://github.com/AbdenourBouziane/storage/blob/550de8224fed90a8c48c2d61c50ef264950d9442/Kotlin.png"></code>
+<code><img height="40" src="https://github.com/AbdenourBouziane/storage/blob/550de8224fed90a8c48c2d61c50ef264950d9442/css3.png"></code>
+<code><img height="40" src="https://github.com/AbdenourBouziane/storage/blob/550de8224fed90a8c48c2d61c50ef264950d9442/html.png"></code>
+<code><img height="40" src="https://github.com/AbdenourBouziane/storage/blob/550de8224fed90a8c48c2d61c50ef264950d9442/php.png"></code>
+<code><img height="40" src="https://github.com/AbdenourBouziane/storage/blob/550de8224fed90a8c48c2d61c50ef264950d9442/Dart.png"></code>
+<code><img height="40" src="https://github.com/AbdenourBouziane/storage/blob/550de8224fed90a8c48c2d61c50ef264950d9442/Python.png"></code>
+<code><img height="40" src="https://github.com/AbdenourBouziane/storage/blob/550de8224fed90a8c48c2d61c50ef264950d9442/C.png"></code>
+
+
+
+
+
 
 
 
@@ -65,7 +75,7 @@ Iam Abdenour Bouziane 4th year student at ENSIA. Currently working as a freelanc
 
 
 ##  Contact Me :speech_balloon:
-[![Twitter Badge](https://img.shields.io/badge/-@AbdenourBouziane-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/abdenour_env)](https://x.com/abdenour_env) [![Linkedin Badge](https://img.shields.io/badge/-AbdenourBouziane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwanisng/)](https://www.linkedin.com/in/ashwanisng/) [![Gmail Badge](https://img.shields.io/badge/-ashwanicena5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashwanicena5@gmail.com)](mailto:ashwanicena5@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@ashwanisng-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/ashwanisng/)](https://www.instagram.com/ashwanisng/)
+[![Twitter Badge](https://img.shields.io/badge/-AbdenourBouziane-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/abdenour_env)](https://x.com/abdenour_env) [![Linkedin Badge](https://img.shields.io/badge/-AbdenourBouziane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdenour-bouziane-469225238//)](https://www.linkedin.com/in/abdenour-bouziane-469225238/) [![Gmail Badge](https://img.shields.io/badge/-bouziabeabdenour18@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bouzianeabdenour18@gmail.com)](mailto:bouzianeabdenour18@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@Abdenour-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/_abdou911//)](https://www.instagram.com/_abdou911//)
 
 <p align="center"> 
   Visitor count<br>
