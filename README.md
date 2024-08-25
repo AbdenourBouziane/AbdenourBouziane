@@ -66,11 +66,7 @@ Iam Abdenour Bouziane 4th year student at ENSIA. Currently working as a freelanc
 
 
 
-<a href="https://github.com/ashwanisng">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdenourBouziane&theme=radical&hide=glsl,python" />
-</a>
-
-<img src="https://github-readme-stats.vercel.app/api?username=AbdenourBouziane&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=AbdenourBouziane&&show_icons=true&theme=radical&line_height=27&v=5&hide_rank" alt="Abdenour's GitHub Stats" />
 
 
 
