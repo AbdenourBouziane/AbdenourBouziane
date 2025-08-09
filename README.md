@@ -3,7 +3,6 @@
 
 ---
 
-<!-- Profile Intro -->
 <h3 align="center">🚀 5th-year ENSIA Student | Freelance Software Developer | Passionate About AI & Mobile Apps</h3>
 
 <p align="center">
@@ -28,12 +27,12 @@
 
 **💻 Programming Languages**  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,dart,kotlin,php,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,dart,kotlin,php,r,go,rust,html,css,sql" />
 </p>
 
 **📚 Frameworks & Libraries**  
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,bootstrap,tailwind,redux,opencv" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,vue,angular,nodejs,express,bootstrap,tailwind,redux,nextjs,laravel,opencv" />
 </p>
 
 **🤖 Data Science & AI**  
@@ -41,16 +40,22 @@
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />  
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/10/Pandas_logo.svg">
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Scikit_learn_logo_small.svg">
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg">
 </p>
 
 **☁️ Cloud & DevOps**  
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,git,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=firebase,git,docker,linux,aws,azure,heroku,vercel,netlify" />
+</p>
+
+**🗄 Databases**  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,supabase" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Streak
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdenourBouziane&show_icons=true&theme=radical&rank_icon=github" height="165" />
@@ -63,10 +68,25 @@
 
 ---
 
+## 🏆 GitHub Achievements & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdenourBouziane&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
+---
+
 ## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdenourBouziane&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
+---
+
+## 📜 Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdenourBouziane&theme=radical" />
 </p>
 
 ---
