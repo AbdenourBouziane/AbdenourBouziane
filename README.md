@@ -1,3 +1,8 @@
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation" />
+</p>
+
 <!-- Animated Typing Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F74780&center=true&vCenter=true&width=900&lines=Hi+There+👋,+I'm+Abdenour+Bouziane!;Data+Science+%7C+Machine+Learning+%7C+Mobile+Development;Full-Stack+Developer+%7C+AI+Enthusiast;Always+learning+new+things!)](https://git.io/typing-svg)
 
