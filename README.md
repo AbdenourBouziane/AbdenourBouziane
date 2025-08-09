@@ -1,6 +1,10 @@
-<!-- Profile Header -->
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/abdenour-bouziane-469225238/">Abdenour Bouziane</a> 👋</h1>
-<h3 align="center">Data Science | Machine Learning | Mobile Development | Web Development</h3>
+<!-- Animated Typing Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F74780&center=true&vCenter=true&width=900&lines=Hi+There+👋,+I'm+Abdenour+Bouziane!;Data+Science+%7C+Machine+Learning+%7C+Mobile+Development;Full-Stack+Developer+%7C+AI+Enthusiast;Always+learning+new+things!)](https://git.io/typing-svg)
+
+---
+
+<!-- Profile Intro -->
+<h3 align="center">🚀 5th-year ENSIA Student | Freelance Software Developer | Passionate About AI & Mobile Apps</h3>
 
 <p align="center">
   <a href="https://x.com/abdenour_env"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -12,32 +16,41 @@
 
 ---
 
-## 🚀 About Me
-I'm **Abdenour Bouziane**, a **5th-year student at ENSIA** 🎓 and a passionate **freelance software developer**.  
-I love building data-driven applications, mobile apps, and intelligent AI models.  
+## 💡 About Me
+- 🎓 **5th-year ENSIA Student** in **Software Engineering**  
+- 💼 Freelance developer working on **AI, mobile apps, and full-stack projects**  
+- 📊 Passionate about **Data Science, Machine Learning, and Deep Learning**  
+- 🌍 Based in Algeria, working with clients worldwide  
 
 ---
 
-## 👥 Communities
-- Contributor at [Gostu](https://gostu.net/) – An educational platform for learners.
+## 🛠 Languages & Tools
 
----
-
-## 🛠 Tech Stack & Skills
-
-**💻 Languages & Frameworks**  
+**💻 Programming Languages**  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,dart,kotlin,php,html,css,react,nodejs,flutter,express,mysql,firebase,git" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,dart,kotlin,php,html,css,sql" />
 </p>
 
-**🧠 Data & AI Tools**  
+**📚 Frameworks & Libraries**  
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,bootstrap,tailwind,redux,opencv" />
+</p>
+
+**🤖 Data Science & AI**  
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />  
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/10/Pandas_logo.svg">
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Scikit_learn_logo_small.svg">
+</p>
+
+**☁️ Cloud & DevOps**  
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,git,docker,linux" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Streak
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdenourBouziane&show_icons=true&theme=radical&rank_icon=github" height="165" />
@@ -50,7 +63,8 @@ I love building data-driven applications, mobile apps, and intelligent AI models
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdenourBouziane&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
