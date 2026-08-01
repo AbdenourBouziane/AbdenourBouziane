@@ -4,7 +4,7 @@
 
 ---
 
-<h3 align="center">🚀 5th-year ENSIA Student | Freelance Software Developer | Passionate About AI & Mobile Apps</h3>
+<h3 align="center">🚀 Data Science & AI Engineer | ENSIA Graduate | Freelance Software Developer | Passionate About AI & Mobile Apps</h3>
 
 <p align="center">
   <a href="https://x.com/abdenour_env"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
