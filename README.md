@@ -17,7 +17,7 @@
 ---
 
 ## 💡 About Me
-- 🎓 **5th-year ENSIA Student** in **Software Engineering**  
+- 🎓 **ENSIA Graduate** in **Artificial Intelligence & DATA Science**  
 - 💼 Freelance developer working on **AI, mobile apps, and full-stack projects**  
 - 📊 Passionate about **Data Science, Machine Learning, and Deep Learning**  
 - 🌍 Based in Algeria, working with clients worldwide  
