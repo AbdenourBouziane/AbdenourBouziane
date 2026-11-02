@@ -1,28 +1,3 @@
-<!--
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  README theme: RUN / ENDURANCE  ·  sunrise orange + asphalt gray + electric    ║
-║──────────────────────────────────────────────────────────────────────────────║
-║  DYNAMIC IMAGE SERVICES USED (all return animated SVGs or SVG badges that      ║
-║  GitHub renders — no <script> / CSS needed):                                   ║
-║   • capsule-render.vercel.app ........ animated "waving" hero + section waves   ║
-║   • readme-typing-svg.demolab.com .... animated typing tagline                 ║
-║   • img.shields.io ................... social + tech badges (SVG)              ║
-║   • skillicons.dev ................... tech-stack icon grid (SVG)              ║
-║   • github-readme-stats.vercel.app ... stats card + top languages             ║
-║   • streak-stats.demolab.com ......... contribution streak                    ║
-║   • github-readme-activity-graph ..... contribution activity line graph       ║
-║   • github-profile-trophy.vercel.app . achievement trophies                   ║
-║   • komarev.com/ghpvc ................ profile-views counter                   ║
-║                                                                                ║
-║  USERNAME: every dynamic image is pre-filled with "AbdenourBouziane" (from     ║
-║  your current profile). If that's wrong, find & replace it everywhere.         ║
-║  Running details (PBs, Strava link, mileage, next race) are marked with        ║
-║  <!-- replace this --> — swap those in.                                        ║
-╚══════════════════════════════════════════════════════════════════════════════╝
--->
-
-<!-- ═══════════════════════════ HERO BANNER ═══════════════════════════ -->
-<!-- Animated waving header (capsule-render). Gradient = sunrise → electric. -->
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:FF4D00,100:00E5FF&height=210&section=header&text=Abdenour%20Bouziane&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Code%20at%20my%20desk%20·%20PRs%20on%20the%20pavement&descSize=18&descAlignY=56&animation=fadeIn" alt="Abdenour Bouziane — Developer & Runner"/>
@@ -55,17 +30,9 @@ I'm **Abdenour** — an **AI & Data Science engineer** (ENSIA graduate) and free
 
 Off the keyboard, I'm an **amateur endurance runner**. The two sides feed each other: training is just a long feedback loop — set a goal, log the data, iterate, chase the next personal best. Same as shipping software, only sweatier.
 
-```text
-while (alive) {
-    code();      // merge the PR
-    run();       // break the PR
-    sleep();     // recover, repeat
-}
-```
-
 - 🧠 Working with: **Python · PyTorch · TensorFlow · Flutter · React**
-- 🏃 Current focus: <!-- replace this --> *(e.g. building a half-marathon base, learning to pace)*
-- 🎯 This season's goal: <!-- replace this --> *(e.g. sub-45 10K)*
+- 🏃 Current focus: Building SaS and Preparing for races.
+- 🎯 This season's goal: sub-1:55 Half)
 - 💬 Ask me about: ML, mobile dev, or why 5am runs are worth it
 
 <!-- Animated wave divider -->
@@ -81,10 +48,10 @@ while (alive) {
 
 | 🏃 Distance | ⏱️ Personal Best | 📍 Where |
 |:-----------:|:----------------:|:--------:|
-| **5K**      | `--:--` <!-- replace this --> | <!-- replace this --> |
-| **10K**     | `--:--` <!-- replace this --> | <!-- replace this --> |
-| **Half**    | `--:--:--` <!-- replace this --> | <!-- replace this --> |
-| **Marathon**| `--:--:--` <!-- replace this --> | <!-- replace this --> |
+| **5K**      | 23:37 | Training Session |
+| **10K**     | 50:53 | Training Session |
+| **Half**    | 02:05:46 | Bejaia Half Marathon |
+| **Marathon**| Soon |  |
 
 <br/>
 
@@ -107,17 +74,6 @@ while (alive) {
     <img width="100%" src="./pace-line.svg" alt="pace line"/>
   </div>
 -->
-
-<details align="center">
-<summary><b>🔗 Want live Strava stats here?</b></summary>
-<br/>
-Drop in a Strava-sync GitHub Action (e.g. a workflow that writes your latest
-activities into this README on a schedule) and replace the placeholder board
-above with the generated output. Until then, the board stays manual.
-</details>
-
-<!-- Animated wave divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,100:00E5FF&height=70&section=footer" alt=""/>
 
 <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
 ## ⚙️ The Kit
