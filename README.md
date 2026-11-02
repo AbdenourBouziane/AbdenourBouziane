@@ -55,13 +55,13 @@ I'm **Abdenour** — an **AI & Data Science engineer** (ENSIA graduate) and free
 
 Off the keyboard, I'm an **amateur endurance runner**. The two sides feed each other: training is just a long feedback loop — set a goal, log the data, iterate, chase the next personal best. Same as shipping software, only sweatier.
 
-​```text
+```text
 while (alive) {
     code();      // merge the PR
     run();       // break the PR
     sleep();     // recover, repeat
 }
-​```
+```
 
 - 🧠 Working with: **Python · PyTorch · TensorFlow · Flutter · React**
 - 🏃 Current focus: <!-- replace this --> *(e.g. building a half-marathon base, learning to pace)*
