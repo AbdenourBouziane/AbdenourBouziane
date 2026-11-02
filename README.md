@@ -63,17 +63,9 @@ Off the keyboard, I'm an **amateur endurance runner**. The two sides feed each o
 
 </div>
 
-<!--
-  ── OPTIONAL: custom animated "pace line" SVG ──────────────────────────────
-  A hand-made animated SVG (a moving pace/heartbeat line) ships alongside this
-  file as `pace-line.svg`. To use it: drop pace-line.svg into your repo root
-  (same folder as this README), then DELETE the comment markers around the
-  line below so it renders.
-
-  <div align="center">
-    <img width="100%" src="./pace-line.svg" alt="pace line"/>
-  </div>
--->
+<div align="center">
+  <img width="100%" src="./pace-line.svg" alt="pace line"/>
+</div>
 
 <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
 ## ⚙️ The Kit
