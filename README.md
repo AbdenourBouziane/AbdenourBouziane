@@ -99,12 +99,12 @@ while (alive) {
 <!--
   ── OPTIONAL: custom animated "pace line" SVG ──────────────────────────────
   A hand-made animated SVG (a moving pace/heartbeat line) ships alongside this
-  file as `pace-line.svg`. To use it: create an /assets folder in your repo,
-  drop the file in as assets/pace-line.svg, then DELETE the comment markers
-  around the line below so it renders.
+  file as `pace-line.svg`. To use it: drop pace-line.svg into your repo root
+  (same folder as this README), then DELETE the comment markers around the
+  line below so it renders.
 
   <div align="center">
-    <img width="100%" src="./assets/pace-line.svg" alt="pace line"/>
+    <img width="100%" src="./pace-line.svg" alt="pace line"/>
   </div>
 -->
 
