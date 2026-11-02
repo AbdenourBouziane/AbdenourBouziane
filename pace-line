@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" width="800" height="120" role="img" aria-label="Animated pace line">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF6B35"/>
+      <stop offset="0.5" stop-color="#FF4D00"/>
+      <stop offset="1" stop-color="#00E5FF"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- asphalt backdrop -->
+  <rect x="0" y="0" width="800" height="120" rx="14" fill="#1A1A1D"/>
+
+  <!-- baseline -->
+  <line x1="20" y1="60" x2="780" y2="60" stroke="#2B2D31" stroke-width="2" stroke-dasharray="4 6"/>
+
+  <!-- the pace / heartbeat line -->
+  <path id="pace"
+        d="M 20 60 L 150 60 L 185 28 L 220 92 L 255 40 L 300 60 L 440 60 L 475 22 L 510 96 L 545 52 L 600 60 L 780 60"
+        fill="none" stroke="url(#sky)" stroke-width="4"
+        stroke-linecap="round" stroke-linejoin="round"
+        stroke-dasharray="1200" stroke-dashoffset="1200" filter="url(#glow)">
+    <!-- draw-on, then flow -->
+    <animate attributeName="stroke-dashoffset" from="1200" to="0" dur="2.4s" fill="freeze"/>
+    <animate attributeName="stroke-dashoffset" from="0" to="-1200" begin="2.4s" dur="6s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- glowing runner dot tracing the line -->
+  <circle r="6" fill="#FFFFFF" filter="url(#glow)">
+    <animateMotion dur="3.2s" repeatCount="indefinite" rotate="auto">
+      <mpath href="#pace"/>
+    </animateMotion>
+    <animate attributeName="r" values="5;8;5" dur="0.9s" repeatCount="indefinite"/>
+  </circle>
+</svg>
