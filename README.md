@@ -48,8 +48,8 @@ Off the keyboard, I'm an **amateur endurance runner**. The two sides feed each o
 
 | 🏃 Distance | ⏱️ Personal Best | 📍 Where |
 |:-----------:|:----------------:|:--------:|
-| **5K**      | 23:37 | Training Session |
-| **10K**     | 50:53 | Training Session |
+| **5K**      | 23:05 | Training Session |
+| **10K**     | 46:26 | Training Session |
 | **Half**    | 02:05:46 | Bejaia Half Marathon |
 | **Marathon**| Soon |  |
 
