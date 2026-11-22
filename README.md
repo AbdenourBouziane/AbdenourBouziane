@@ -5,7 +5,7 @@
 
 <!-- Animated typing tagline -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=1200&amp;color=FF6B35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;height=60&amp;lines=Hi+there+%F0%9F%91%8B+I%27m+Abdenour;Developer+by+day%2C+runner+by+sunrise+%F0%9F%8C%85;Data+Science+%E2%80%A2+Machine+Learning+%E2%80%A2+Endurance+%F0%9F%8F%83;Chasing+new+PRs+%E2%80%94+pull+requests+%26+personal+records;One+more+kilometer%2C+one+more+commit+%F0%9F%9A%80" alt="Typing tagline"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=1200&amp;color=FF6B35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;height=60&amp;lines=Hi+there+I%27m+Abdenour;Developer+by+day%2C+runner+by+sunrise+%F0%9F%8C%85;Data+Science+%E2%80%A2+Machine+Learning+%E2%80%A2+Endurance+%F0%9F%8F%83;Chasing+new+PRs+%E2%80%94+pull+requests+%26+personal+records;One+more+kilometer%2C+one+more+commit+%F0%9F%9A%80" alt="Typing tagline"/>
 </a>
 
 <br/>
