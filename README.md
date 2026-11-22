@@ -1,22 +1,22 @@
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:FF4D00,100:00E5FF&height=210&section=header&text=Abdenour%20Bouziane&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Code%20at%20my%20desk%20·%20PRs%20on%20the%20pavement&descSize=18&descAlignY=56&animation=fadeIn" alt="Abdenour Bouziane — Developer & Runner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:FF4D00,100:00E5FF&height=210&section=header&text=Abdenour%20Bouziane&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Code%20at%20my%20desk%20%C2%B7%20PRs%20on%20the%20pavement&descSize=18&descAlignY=56&animation=fadeIn" alt="Abdenour Bouziane — Developer & Runner"/>
 
-<!-- Animated typing tagline (readme-typing-svg). Edit the text after lines= -->
+<!-- Animated typing tagline -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=FF6B35&center=true&vCenter=true&width=820&height=50&lines=Hi+there+👋+I'm+Abdenour;Developer+by+day,+runner+by+sunrise+🌅;Data+Science+•+Machine+Learning+•+Endurance+🏃;Chasing+new+PRs+—+pull+requests+%26+personal+records;One+more+kilometer,+one+more+commit+🚀" alt="Typing tagline"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=1200&amp;color=FF6B35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;height=60&amp;lines=Hi+there+%F0%9F%91%8B+I%27m+Abdenour;Developer+by+day%2C+runner+by+sunrise+%F0%9F%8C%85;Data+Science+%E2%80%A2+Machine+Learning+%E2%80%A2+Endurance+%F0%9F%8F%83;Chasing+new+PRs+%E2%80%94+pull+requests+%26+personal+records;One+more+kilometer%2C+one+more+commit+%F0%9F%9A%80" alt="Typing tagline"/>
 </a>
 
 <br/>
 
-<!-- ───────── Social / contact badges (shields.io · for-the-badge) ───────── -->
+<!-- Social / contact badges -->
 <a href="https://www.linkedin.com/in/abdenour-bouziane-469225238/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://x.com/abdenour_env"><img src="https://img.shields.io/badge/X-14171A?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="https://github.com/AbdenourBouziane"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.instagram.com/_abdou911/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="mailto:bouzianeabdenour18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
-<a href="https://www.strava.com/athletes/175238378"><<img src="https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" alt="Strava"/></a>
+<a href="https://www.strava.com/athletes/175238378"><img src="https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" alt="Strava"/></a>
 
 </div>
 
@@ -31,8 +31,8 @@ I'm **Abdenour** — an **AI & Data Science engineer** (ENSIA graduate) and free
 Off the keyboard, I'm an **amateur endurance runner**. The two sides feed each other: training is just a long feedback loop — set a goal, log the data, iterate, chase the next personal best. Same as shipping software, only sweatier.
 
 - 🧠 Working with: **Python · PyTorch · TensorFlow · Flutter · React**
-- 🏃 Current focus: Building SaS and Preparing for races.
-- 🎯 This season's goal: sub-1:55 Half)
+- 🏃 Current focus: Building SaaS and Preparing for races.
+- 🎯 This season's goal: sub-1:55 Half
 - 💬 Ask me about: ML, mobile dev, or why 5am runs are worth it
 
 <!-- Animated wave divider -->
@@ -57,9 +57,9 @@ Off the keyboard, I'm an **amateur endurance runner**. The two sides feed each o
 
 <!-- "This week" callout — static placeholder badges, edit the numbers -->
 <img src="https://img.shields.io/badge/This_Week-00E5FF?style=for-the-badge&logoColor=white" alt=""/>
-<img src="https://img.shields.io/badge/Distance-00_km-FF6B35?style=for-the-badge&logo=runkeeper&logoColor=white" alt="weekly distance"/> <!-- replace this -->
-<img src="https://img.shields.io/badge/Runs-0-2B2D31?style=for-the-badge&logo=nike&logoColor=white" alt="weekly runs"/> <!-- replace this -->
-<img src="https://img.shields.io/badge/Next_Race-TBD-FF4D00?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="next race"/> <!-- replace this -->
+<img src="https://img.shields.io/badge/Distance-00_km-FF6B35?style=for-the-badge&logo=runkeeper&logoColor=white" alt="weekly distance"/>
+<img src="https://img.shields.io/badge/Runs-0-2B2D31?style=for-the-badge&logo=nike&logoColor=white" alt="weekly runs"/>
+<img src="https://img.shields.io/badge/Next_Race-TBD-FF4D00?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="next race"/>
 
 </div>
 
@@ -80,7 +80,6 @@ Off the keyboard, I'm an **amateur endurance runner**. The two sides feed each o
 **AI · ML · Data**
 <br/>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="ai/ml"/>
-<!-- skillicons has no Pandas/scikit/Jupyter icon, so these come from shields.io -->
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
@@ -144,6 +143,6 @@ Open to freelance work, collaborations, and running buddies.
 </div>
 
 <!-- Finish-line footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:FF4D00,100:FF6B35&height=150&section=footer&text=Keep%20moving.&fontSize=30&fontColor=ffffff&fontAlignY=70&animation=fadeIn" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:FF4D00,100:FF6B35&height=150&section=footer&text=Keep%20moving.&fontSize=30&fontColor=ffffff&fontAlignY=70&animation=fadeIn" width="100%" alt=""/>
 
 <div align="center"><sub>⭐ Star a repo if something here was useful — then go for a run.</sub></div>
