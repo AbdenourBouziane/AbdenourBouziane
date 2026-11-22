@@ -15,6 +15,7 @@
 <a href="https://github.com/AbdenourBouziane"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.instagram.com/_abdou911/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="mailto:bouzianeabdenour18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
 <a href="https://www.strava.com/athletes/175238378"><<img src="https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" alt="Strava"/></a>
 
 </div>
